@@ -1,6 +1,3 @@
-/**
- * Created by DaChen on 11/12/18.
- */
 public class RJT {
     public void starPrinter(int cnt) {
         if (cnt < 0) {
